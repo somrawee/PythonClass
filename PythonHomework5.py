@@ -9,7 +9,7 @@ Created on Thu Aug  4 11:23:54 2022
 number=""
 prex=""
 
-
+#test sept for git
 def get_number(n):
     num_list=[]
     for i in range(n):
